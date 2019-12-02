@@ -1,3 +1,3 @@
-# codersrank-template-prcdeo
+# codersrank-frontend dev track
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/codersrank-template-prcdeo)
+frontend development track from codersrank
